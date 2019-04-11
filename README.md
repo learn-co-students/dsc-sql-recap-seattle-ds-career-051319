@@ -1,15 +1,15 @@
 
-# SQL - Recap
+# Section Recap
 
 ## Introduction
 
-In this section you learned a lot about SQL! Here, you'll get to take a quick look at summarizing some of the key points.
+This short lesson summarizes the topics we covered in section 9 and why they'll be important to you as a data scientist.
 
 ## Objectives
 
-* Objective goes here
-* Objective goes here
-* Objective goes here
+You will be able to:
+* Understand and explain what was covered in this section
+* Understand and explain why this section will help you become a data scientist
 
 ## SELECT
 
