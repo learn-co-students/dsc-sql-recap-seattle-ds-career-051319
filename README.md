@@ -13,7 +13,7 @@ You will be able to:
 
 ## SELECT
 
-The first part that you saw with sql is how to select data from tables. You saw how to connect to a database and query basic data from a table using column names or the wildcard parameter `*`. 
+The first part that you saw with SQL is how to select data from tables. You saw how to connect to a database and query basic data from a table using column names or the wildcard parameter `*`. 
 
 ## Filters
 
@@ -25,7 +25,7 @@ Along with filtering, you also saw how to order your query selections. To do thi
 
 ## Grouping
 
-Next up, you saw you to create aggregates with your data. This involved using the `group by` statement. You saw that you can both explicitly state the column names that you wish to group by or that you can use aliases for the columns using numbers such as 1,2,3. You also got to investigate some aggregate functions such as `count()`, `max()`, `min()`, and `avg()`. Finally, you also saw that you can filter based on the results of aggregate functions using the `having` clause. 
+Next up, you saw how to create aggregates with your data. This involved using the `group by` statement. You saw that you can both explicitly state the column names that you wish to group by or that you can use aliases for the columns using numbers such as 1,2,3. You also got to investigate some aggregate functions such as `count()`, `max()`, `min()`, and `avg()`. Finally, you also saw that you can filter based on the results of aggregate functions using the `having` clause. 
 
 ## Joins
 
