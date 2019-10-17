@@ -1,5 +1,5 @@
 
-# Section Recap
+# SQL and Relational Databases - Recap
 
 ## Introduction
 
